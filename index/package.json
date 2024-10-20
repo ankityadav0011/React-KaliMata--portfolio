@@ -1,5 +1,5 @@
-{
-  "homepage": "https://ankityadav0011.github.io/React-power-",
+{     
+  "homepage":"https://ankityadav0011.github.io/React-KaliMata--portfolio/",
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/ankityadav0011/React-power-.git"
+    "deploy":"gh-pages -d dist -r https://github.com/ankityadav0011/React-KaliMata--portfolio.git"
   },
   "dependencies": {
     "gh-pages": "^6.2.0",
